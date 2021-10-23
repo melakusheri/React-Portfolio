@@ -7,9 +7,9 @@ My personal portfolio built using React and Bootstrap with recent projects .link
 https://melakusheri.github.io/react-portfolio/
 
 ## Screenshots
+![about](https://user-images.githubusercontent.com/65136237/138566670-a2e116a5-5c6b-44cd-95bd-3ca7ccb81282.PNG)
+![portfolio](https://user-images.githubusercontent.com/65136237/138566673-f452d913-4667-40ef-9ce9-2cfbfeb17acc.PNG)
 
-out](https://user-images.githubusercontent.com/65136237/138566607-09751e00-100a-4301-a8f4-f0c7fa0115a5.PNG)
-![portfolio](https://user-images.githubusercontent.com/65136237/138566653-90d33b0a-bc31-4f9b-8038-a5d3d3825c15.PNG)
 
 
 
