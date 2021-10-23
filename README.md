@@ -12,7 +12,8 @@ https://melakusheri.github.io/react-portfolio/
 ![Resume](https://user-images.githubusercontent.com/65136237/138566679-d4c260e4-26c3-4651-a73c-df2d508ade8c.PNG)
 ![contact](https://user-images.githubusercontent.com/65136237/138566685-105186ca-4942-414d-bfb5-6283a39b7e18.PNG)
 
-
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Available Scripts
 
 In the project directory, you can run:
