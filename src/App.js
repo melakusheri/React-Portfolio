@@ -17,7 +17,7 @@ function App() {
     const [currentPage, setCurrentPage] = useState(pages[0]);
 
     useEffect(() => {
-        document.title = `deckieDevs :: ${currentPage.name}`
+        document.title = `Melaku Sheri Portfolio :: ${currentPage.name}`
     });
 
     return (
@@ -37,3 +37,5 @@ function App() {
         </div>
     );
 };
+
+export default App;

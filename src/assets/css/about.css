@@ -18,7 +18,13 @@
 
 #about-me p {
     margin-bottom: var(--spacing-two);
-    line-height: 1.3rem;
+    line-height: 2.3rem;
+}
+
+#about-mebold {
+    margin-bottom: var(--spacing-two);
+    line-height: 2.3rem;
+    font-size: 60px;
 }
 
 @media screen and (max-width: 768px) {
@@ -27,7 +33,6 @@
         justify-self: center;
         margin-bottom: var(--spacing-two);
     }
-    
     #about-me {
         width: 100%;
         padding: 0;
