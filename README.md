@@ -1,5 +1,9 @@
 # React-Portfolio
-My personal portfolio built using React and Bootstrap.
+
+## Description
+My personal portfolio built using React and Bootstrap with recent projects .linke to my resume, background, and contact informatin with brief expriances.
+
+## Deployed Link
 
 ## Available Scripts
 
