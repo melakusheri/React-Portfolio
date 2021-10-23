@@ -4,6 +4,7 @@
 My personal portfolio built using React and Bootstrap with recent projects .linke to my resume, background, and contact informatin with brief expriances.
 
 ## Deployed Link
+https://melakusheri.github.io/react-portfolio/
 
 ## Available Scripts
 
