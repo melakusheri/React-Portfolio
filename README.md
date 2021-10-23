@@ -6,6 +6,8 @@ My personal portfolio built using React and Bootstrap with recent projects .link
 ## Deployed Link
 https://melakusheri.github.io/react-portfolio/
 
+## Screenshots
+
 ## Available Scripts
 
 In the project directory, you can run:
