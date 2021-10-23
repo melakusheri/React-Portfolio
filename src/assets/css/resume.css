@@ -1,3 +1,18 @@
+.experience-container {
+    width: 75%;
+    padding-left: var(--spacing-two);
+}
+
+.side-container {
+    width: 25%;
+    text-align: center;
+}
+
+.resume-block {
+    margin: var(--spacing-two) auto;
+    line-height: 1.3rem;
+}
+
 .resume-list {
     list-style-type: none;
 }
