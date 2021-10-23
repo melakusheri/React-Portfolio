@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Melaku sheri Personal Portfolio",
   "private": true,
-  "homepage": "",
+  "homepage": "https://melakusheri.github.io/react-portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
