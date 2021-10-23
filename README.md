@@ -1,4 +1,5 @@
 # React-Portfolio
+My personal portfolio built using React and Bootstrap.
 
 ## Available Scripts
 
