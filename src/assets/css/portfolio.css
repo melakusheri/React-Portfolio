@@ -1,0 +1,46 @@
+.sub-section-project {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 80px;
+}
+
+.project-card {
+    width: 300px;
+    height: 500px;
+    box-shadow: 5px 5px 20px;
+    margin: 10px;
+}
+
+.project-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.rectangel {
+    margin-top: 25px;
+    border-style: solid;
+    width: 160px;
+    height: 300px;
+    margin: 0px;
+}
+
+p {
+    text-decoration: none;
+    color: #5fb3f8;
+}
+
+h3 {
+    text-decoration: none;
+    color: #ef744b;
+}
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.project-link {
+    text-decoration: none;
+}
