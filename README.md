@@ -14,6 +14,15 @@ https://melakusheri.github.io/react-portfolio/
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+##Tests
+npm test
+
+Github
+https://github.com/melakusheri
+
+E-mail
+
 ## Available Scripts
 
 In the project directory, you can run:
